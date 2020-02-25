@@ -1,6 +1,6 @@
 # buscador_de_gifs
 
-A new Flutter project.
+Um app simples para buscar e compartilhar gifs
 
 ## Getting Started
 
